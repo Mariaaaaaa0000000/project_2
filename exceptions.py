@@ -1,0 +1,2 @@
+class RiddleError(TypeError):
+    pass
